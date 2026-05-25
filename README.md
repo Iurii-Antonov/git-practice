@@ -1,3 +1,3 @@
-# git-practice
-My first repositary
-I am learning work with Git and Github
+this my first reporitary
+I am learing to work with Git anfd GitHub
+
